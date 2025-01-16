@@ -1,3 +1,5 @@
+import {api_key} from './config.js';
+
 let button=document.querySelector("button")
 
 button.addEventListener("click",()=>{
