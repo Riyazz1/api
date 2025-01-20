@@ -22,7 +22,7 @@ button.addEventListener("click",()=>{
         new_respo.forEach((element,index) => {
         
             
-            // head.innerText+=`${element.title} `
+            
 
             if(index==0){
                 image.src=element.image
